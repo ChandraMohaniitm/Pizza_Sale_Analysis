@@ -25,6 +25,8 @@
 ## Excel Dashboard 
 <a href="">view dashboard</a>
 
-## Project Insights 
+## Project Insights
+![Screenshot 2024-12-28 225627](https://github.com/user-attachments/assets/5fbbbcc8-e79f-4316-8b78-be9eb3e84a2e)
+
 
 ## Conclusion
