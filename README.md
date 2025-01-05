@@ -20,7 +20,7 @@
 - Q10 Calculate the percentage contribution of each pizza type to total revenue.
 
 ## SQL Code
-<a href="">view code</a>
+<a href="https://github.com/ChandraMohaniitm/Pizza_Sale_Analysis/blob/main/pizzas.sql">view code</a>
 
 ## Excel Dashboard 
 <a href="https://github.com/ChandraMohaniitm/Pizza_Sale_Analysis/blob/main/Screenshot%202024-12-28%20225840.png">view dashboard</a>
