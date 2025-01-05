@@ -5,7 +5,7 @@
  The objective of this project is to analyse the pizza data to find insights,trends and patterns to maximize the profit of the company.
 
 ## Dataset Used
-<a href="">view dataset</a>
+<a href="https://github.com/ChandraMohaniitm/Pizza_Sale_Analysis/blob/main/pizza.data.csv">view dataset</a>
 
 ## Question(KPIs)
 - Q1 Retrieve the total number of orders placed.
